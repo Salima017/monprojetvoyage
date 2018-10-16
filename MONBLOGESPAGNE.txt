@@ -1,0 +1,1 @@
+Création d'un blog dédié à l'Espagne. Traiter les villes suivantes : Barcelona, Madrid, Cordoba, Granada, Sevilla.
